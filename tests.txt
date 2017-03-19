@@ -1,0 +1,18 @@
+# Arquivo de configuração de robôs.
+# A tabela abaixo exibe cada robô e respectivos pontos de vida (HP) e armadura (Armor).
+
+# Registros novos podem ser adicionados respeitando a sintaxe:
+# <Nome> <HP> <Armor>
+
+# ATENÇÃO: NÃO ADICIONE OU REMOVA ATRIBUTOS DOS REGISTROS ABAIXO.
+# Novos registros podem ser adicionados, atributos não.
+# Qualquer alteração incorreta deste arquivo de configuração resultará no lançamento de BadConfigError durante a execução do jogo.
+
+Taurus 3000 
+Sandrock 5500 55
+Epyon 2700 250
+Altron 2200 230
+Virgo 4100 120
+Zeta864 4000 130
+Galactus 3000 280
+Baiano 20 1

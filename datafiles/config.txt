@@ -1,0 +1,15 @@
+# Arquivo de configurações
+# Aqui são declarados algumas configurações constantes no jogo.
+# É preciso muito cuidado ao alterar os valores contidos neste arquivo.
+
+# ATENÇÃO: NÃO ALTERE A ORDEM DAS LINHAS ABAIXO.
+# Qualquer alteração incorreta deste arquivo de configuração resultará no lançamento de um BadConfigError durante a execução do jogo.
+
+# CONFIGS P/ ARENA: Respectivamente: 
+# Dimensão minima da arena (medida em posições). DEFAULT = 30
+# Coeficiente de quantidade de items especiais. DEFAULT = 0.2
+10 0.9
+
+# Nome do arquivo no qual as ações serão serializadas
+# Obs: Nome não pode conter espaços:
+saves1.ser
